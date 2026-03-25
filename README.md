@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Guido Oswald, SA out of Switzerland
-- 👀 I’m interested in everything around Databricks, Apche Spark, Delta Lake, MLflow
-- 🌱 I’m currently learning the new Repos feature in Databricks
-- 💞️ I’m looking to collaborate on demos that showcase Databricks collaborative notebooks
+- 👀 I’m interested in everything Data+AI
+- 🌱 I’m currently abusing Claude code as my coding slave
+- 💞️ I’m looking to collaborate on demos that showcase Databricks collaborative notebooks and apps
 - 📫 How to reach me: guido[at]databricks[dot]com
 
 <!---
